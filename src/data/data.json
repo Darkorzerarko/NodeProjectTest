@@ -1,0 +1,19 @@
+{
+  "browsers": [
+    {
+      "name": "Google Chrome",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png",
+      "description": "Google Chrome is a fast, secure, and easy-to-use web browser. It has a clean and simple interface and is known for its speed and reliability."
+    },
+    {
+      "name": "Mozilla Firefox",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
+      "description": "Mozilla Firefox is a free and open-source web browser. It is known for its customizability and privacy features, as well as its support for web standards."
+    },
+    {
+      "name": "Microsoft Edge",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg",
+      "description": "Microsoft Edge is a fast and secure web browser. It is designed to work seamlessly with Windows 10 and has a built-in set of tools for browsing the web, reading e-books, and more."
+    }
+  ]
+}
